@@ -1,4 +1,4 @@
-# VR_Portfolio
+# Virtual Reality Portfolio
 demo pictures of various functionalities implemented for HTC Vive in Unity and C#
 
 
